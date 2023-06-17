@@ -42,7 +42,7 @@ logo: /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name: Yejin Kim
-  email: <kky156@naver.com>
+  email: kky156@naver.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -404,21 +404,21 @@ jekyll_compose:
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/profile/background.jpg
     posts:
       layout: post
       description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/profile/background.jpg
     projects:
       layout: project
       description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/profile/background.jpg
       links:
         - title: Project Link
           url: https://example.com
