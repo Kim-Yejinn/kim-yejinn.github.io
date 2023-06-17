@@ -46,6 +46,7 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
+# 메뉴 수정 부분
 # Add links to the sidebar.
 menu:
   - title: Example
@@ -57,6 +58,7 @@ menu:
   - title: About
     url: /about/
 
+#푸터에 들어가는것
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
