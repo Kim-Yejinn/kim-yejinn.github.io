@@ -5,6 +5,7 @@ date: 2023-06-16 21:26:47 +0900
 categories: jekyll update
 ---
 
+여기는 이름 클릭했을때 오는 곳임.!!
 여긴 어디더냐..
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
