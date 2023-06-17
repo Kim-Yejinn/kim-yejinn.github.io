@@ -2,12 +2,12 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name: <Yejin> <Kim>
-  email: <kky156@naver.com>
+  name: Yejin Kim
+  email: kky156@naver.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about: |
+  about:
     안녕하세요 테스트 중입니다!
     # Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     # sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -28,9 +28,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter: <username>
+    # twitter: <username>
     github: <username>
-    # email:           <mail@domain.tld>
+    email: <kky156@naver.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
