@@ -1,17 +1,17 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: list
+layout: page
 
 # The title of the tag's page.
 title: Portfolio
 
-# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Portfolio
-
-# (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  This is portfolio,
+# The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
+# slug: Portfolio
+hide_description: true
+permalink: /portfolio/
+# (Optional) Write a short (~150 characters) description of this featured tag.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -20,3 +20,7 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 # sitemap: false
 ---
+
+안녕하세요. 제발좀 되라 ....
+
+흐엉.. 모르겠어
