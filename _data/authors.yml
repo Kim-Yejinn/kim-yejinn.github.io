@@ -17,11 +17,11 @@ author1:
 
   # This photo will be used in the about section
   picture:
-    path: /assets/img/profile/person.jpg
+    path: /assets/img/profile/background.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     # 1x는 컴터용 2x는 모바일용
     srcset:
-      1x: /assets/img/profile/person.jpg
+      1x: /assets/img/profile/background.jpg
       2x: /assets/img/profile/background.jpg
 
   # Social media icons in sidebar
