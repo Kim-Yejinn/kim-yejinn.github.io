@@ -49,10 +49,14 @@ author:
 # 메뉴 수정 부분
 # Add links to the sidebar.
 menu:
-  - title: Example
-    url: /example/
   - title: Portfolio
     url: /portfolio/
+  - title: Develop
+    url: /develop/
+  - title: Learning
+    url: /learning/
+  - title: Example
+    url: /example/
   - title: Documentation
     url: /docs/
   - title: About
@@ -84,6 +88,7 @@ paginate_path: /:num/
 
 #로컬 테스트
 #theme: jekyll-theme-hydejack
+
 #서버 올릴때
 remote_theme: hydecorp/hydejack@v9
 
