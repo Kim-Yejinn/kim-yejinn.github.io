@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title: Portfolio
-    url: /portfolio/
+    url: /about/
   - title: Project
     url: /project/
   - title: Study
