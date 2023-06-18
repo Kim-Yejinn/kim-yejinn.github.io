@@ -4,7 +4,7 @@ title: "test"
 description: >
   파일 테스트 하려구여
 
-date: 2023-06-18 21:26:47 +0900
+date: 2023-06-17 21:26:47 +0900
 
 # categories:
 # - category A
