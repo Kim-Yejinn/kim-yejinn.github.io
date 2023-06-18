@@ -2,7 +2,7 @@
 layout: post
 title: "test"
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  파일 테스트 하려구여
 
 date: 2023-06-18 21:26:47 +0900
 
@@ -21,18 +21,18 @@ published: true
 date: '2023-06-18 02:45:51 +0900' 
 
 related_posts:
-  -
+  - 
 
 ---
 
 테스트용 페이지 입니당.!!
 
-# 1 세부 목차 1이고
+# 헤더 1
 
-## 1-2 세부세부 목차
+## 헤더 2
 
-# 세부 목차 2이고
+# 헤더 1
 
-## 세부세부 목차
+## 헤더 2
 
-## 세부세부2목차
+## 헤더 2
