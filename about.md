@@ -11,14 +11,13 @@ redirect_from:
 
 # About
 
+<!-- author -->
+
+# 김예진
+
+안녕하세여ㅕㅕ
+
 <!-- 이부분 좀 따로 하고 싶은데 찾아 봐야함.. -->
-<center>
-<span style=
-"font-size:170%;
-font-weight:bold">
-김예진
-</span>
-</center>
 
 pdf 다운 기능 + 첨부해야됨.
 
