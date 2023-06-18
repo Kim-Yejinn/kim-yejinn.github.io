@@ -30,9 +30,9 @@ pdf 다운 기능 + 첨부해야됨.
 
 > 위치 : Korea
 >
-> 메일 : khw11044@gmail.com
+> 메일 : kky156@naver.com
 >
-> 홈 : https://kim-yejinn/
+> 홈 : https://kim-yejinn.github.io/
 >
 > Github : <a href="https://github.com/Kim-yejinn">https://github.com/Kim-yejinn</a>
 
