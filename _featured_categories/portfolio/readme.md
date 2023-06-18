@@ -23,10 +23,10 @@ permalink: /portfolio/
 
 pdf 다운기능
 
-이력
-personl -> 메일 깃헙
-education
-interest
-프로젝트
-수상
-언어, 프레임워크, 자격증
+이력 |
+personl -> 메일 깃헙 |
+education |
+interest |
+프로젝트 |
+수상 |
+언어, 프레임워크, 자격증 |
