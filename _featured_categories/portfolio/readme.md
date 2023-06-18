@@ -21,6 +21,12 @@ permalink: /portfolio/
 # sitemap: false
 ---
 
-안녕하세요. 제발좀 되라 ....
+pdf 다운기능
 
-흐엉.. 모르겠어
+이력
+personl -> 메일 깃헙
+education
+interest
+프로젝트
+수상
+언어, 프레임워크, 자격증
