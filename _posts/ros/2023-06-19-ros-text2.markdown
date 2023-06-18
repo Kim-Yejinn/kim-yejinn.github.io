@@ -1,14 +1,15 @@
 ---
 layout: post
-title: test2
+bigtitle: "테스트 22"
+smalltitle: "ros"
 
+categories:
+  - study
+  - ros
 description: >
   파일 테스트 하려구여2222
 
 date: 2023-06-19 21:26:47
-
-categories:
-  - study
 
 tags:
   - tag 1
