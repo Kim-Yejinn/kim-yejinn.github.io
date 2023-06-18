@@ -9,7 +9,7 @@ description: >
   This is learning,
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 # slug: Portfolio
-permalink: /study/
+# permalink: /study/
 hide_description: true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 
