@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "테스트 22"
+bigtitle: "테스트 22"
 smalltitle: "ros"
 
 categories:
