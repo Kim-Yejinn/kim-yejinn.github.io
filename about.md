@@ -11,6 +11,8 @@ redirect_from:
 
 # About
 
+여긴 어디지
+
 <!--author-->
 
 <!-- ## Hydejack

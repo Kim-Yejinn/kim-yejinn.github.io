@@ -6,8 +6,8 @@ description: >
 
 date: 2023-06-18 21:26:47 +0900
 
-categories:
-  - category A
+# categories:
+  # - category A
 
 tags:
   - tag 1
