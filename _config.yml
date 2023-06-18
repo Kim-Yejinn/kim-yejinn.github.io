@@ -51,14 +51,10 @@ author:
 menu:
   - title: Portfolio
     url: /portfolio/
-  - title: Develop
-    url: /develop/
+  - title: Project
+    url: /project/
   - title: Learning
     url: /learning/
-  # - title: Example
-  #   url: /example/
-  # # - title: Documentation
-  #   url: /docs/
   - title: About
     url: /about/
 
@@ -144,11 +140,11 @@ defaults:
       layout: plain
       sitemap: false
 
-  # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  # You can use the following to enable comments on all posts.
+  - scope:
+      type: posts
+    values:
+      comments: true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
