@@ -43,8 +43,6 @@ pdf 다운 기능 + 첨부해야됨.
 
 > Mar.2019 ~ Feb.2023
 >
-> 충남대학교
->
 > 전자공학과 (Department OF ELECTRONICS ENGINEERING)
 
 ## Interest
