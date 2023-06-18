@@ -262,8 +262,8 @@ u {
   content: "";
   width: 4px;
   left: 66px;
-  display: inline-block;
-  // float: left;
+  // display: inline-block;
+  float: left;
   position: relative;
   background-color: lightgrey;
 }
@@ -278,12 +278,12 @@ u {
 }
 .list-post > ul > li > div > a::before {
   content: "";
-  display: inline-block;
+  // display: inline-block;
   position: relative;
   border-radius: 50%;
   width: 8px;
   height: 8px;
-  // float: left;
+  float: left;
   top: 1.35rem;
   left: 60px;
   box-shadow: 0 0 5px 0 grey;
