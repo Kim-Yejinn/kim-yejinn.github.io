@@ -55,8 +55,6 @@ menu:
     url: /project/
   - title: Study
     url: /study/
-  - title: About
-    url: /about/
 
 #푸터에 들어가는것
 # Add links to the footer.
