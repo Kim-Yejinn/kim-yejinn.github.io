@@ -7,8 +7,8 @@ description: >
 
 date: 2023-06-19 21:26:47
 
-# categories:
-# - category A
+categories:
+  - study
 
 tags:
   - tag 1
