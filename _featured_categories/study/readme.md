@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Study
+title: study
 
 description: >
   This is learning,
