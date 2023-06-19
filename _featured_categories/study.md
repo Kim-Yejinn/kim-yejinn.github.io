@@ -15,6 +15,7 @@ description: >
 
 - [CS]{:.heading.flip-title} --- cs
 - [CodingTest]{:.heading.flip-title} --- 코테를 준비하자!
+- [Algorithm]{:.heading.flip-title} --- 알고리즘 정리
 - [C++]{:.heading.flip-title} --- c++
 - [Front-End]{:.heading.flip-title} --- html, css, js, Vue.js
 - [Back-End]{:.heading.flip-title} --- Spring
@@ -24,6 +25,7 @@ description: >
 
 [CS]: /cs/
 [CodingTest]: /codingtest/
+[Algorithm]: /algo/
 [C++]: /cpp/
 [Front-End]: /frontend/
 [Back-End]: /backend/
