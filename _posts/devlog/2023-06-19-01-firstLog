@@ -1,0 +1,31 @@
+---
+layout: post
+bigtitle: "01 FirstLog"
+subtitle: "첫번째 기록"
+
+categories:
+  - devlog
+description: >
+  기록을 남기자
+hide_description: true
+date: 2023-06-19 23:55:00 +0900
+
+# tags:
+#   - tag 1
+#   - tag 2
+
+# toc: true
+# toc_sticky: true
+
+comments: true
+published: true
+
+related_posts:
+  -
+---
+
+- 0. 23.06.19 날짜로 블로그 시작
+- 1. 23.06.16 ~ 23.06.19 github blog 초기버전 제작 완료
+- 2. 마크다운을 처음 사용해 보다보니 익숙하지는 않지만 이젠 좀 쓸 수 있을 듯 하다.
+- 3. 블로그 만들때 다른 블로그 들을 참고해서 만들다 보니 아직 코드를 이해 못한 부분도 있다.시간나면 확인해봐야 겠다.
+- 4. 해야할 기능 : 포트폴리오 다운로드, 포트폴리오 및 프로젝트 정리, 티스토리 블로그 내용 이전

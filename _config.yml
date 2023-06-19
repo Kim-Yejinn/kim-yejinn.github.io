@@ -56,10 +56,26 @@ menu:
   - title: Study
     url: /study/
     submenu:
-      - title: Ros
-        url: /ros/
+      - title: CS
+        url: /cs/
+      - title: CodingTest
+        url: /codingtest/
+      - title: C++
+        url: /cpp/
+      - title: Front-End
+        url: /frontend/
+      - title: Back-End
+        url: /backend/
       - title: Linux
         url: /linux/
+      - title: Arm
+        url: /arm/
+      - title: Ros
+        url: /ros/
+  - title: Review
+    url: /review/
+  - title: DevLog
+    url: /devlog/
 
 #푸터에 들어가는것
 # Add links to the footer.
