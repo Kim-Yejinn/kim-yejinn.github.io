@@ -21,10 +21,11 @@
     <div class="post-date">
       {% assign category_start     = "카테고리 : "     | default:" in " %}
       {% assign tag_start          = "  tag #"          | default:" - " %}
-      {% assign category_separator = site.data.strings.category_separator | default:" >> " %}
+      {% assign category_separator = site.data.strings.category_separator | default:" / " %}
       {% assign tag_separator      = " #"     | default:". "  %}
       {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
+      
       <br>
       <!--년월일-->
       {% assign post_format = "%Y년 %m월 %d일 글" | default:"%Y %m %d" %}
@@ -51,8 +52,6 @@
       <p class="read-more">
         {{ text | replace:"<!--post_title-->", post_title }}
       </p>
-
     </footer>
-  {% endif %}
 </div>
 </article>
