@@ -57,9 +57,9 @@ menu:
     url: /study/
     submenu:
       - title: Ros
-      url: /ros/
-      - title : Linux
-      url: /linux/
+        url: /ros/
+      - title: Linux
+        url: /linux/
 
 #푸터에 들어가는것
 # Add links to the footer.
