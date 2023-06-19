@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-bigtitle: Study
+bigtitle: Review
 menu: true
 submenu: false
 sitemap: true
