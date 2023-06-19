@@ -2,6 +2,8 @@
 layout: list
 type: category
 bigtitle: Study
+menu: true
+submenu: false
 sitemap: true
 hide_description: true
 # order: 3
