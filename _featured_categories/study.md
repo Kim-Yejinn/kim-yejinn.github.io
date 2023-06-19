@@ -2,7 +2,7 @@
 layout: list
 type: category
 bigtitle: Study
-# sitemap: true
+sitemap: true
 hide_description: false
 # order: 3
 description: >

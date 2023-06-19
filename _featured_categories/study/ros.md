@@ -11,7 +11,7 @@ description: >
 # slug: Portfolio
 # permalink: /study/
 hide_description: true
-# list: true
+list: true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 
 # (Optional) You can disable grouping posts by date.
