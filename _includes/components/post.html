@@ -44,18 +44,6 @@
     <!--상단버튼-->
 
   </header>
-  <div class="markdown-body">
-    <ins class="kakao_ad_area" style="display:none;" 
-        data-ad-unit    = "DAN-2UFi2qdmXcYEyEUr" 
-        data-ad-width   = "320" 
-        data-ad-height  = "50"></ins> 
-  <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
-  {% if no_excerpt %}
-    {{ post.content }}
-  {% else %}
-    {{ post.excerpt }}
-  </div>
-
     {% capture post_title %}<a class="heading flip-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endcapture %}
     {% assign text = site.data.strings.continue_reading | default:"Continue reading <!--post_title-->" %}
     <!--footer-->
