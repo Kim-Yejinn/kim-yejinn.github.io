@@ -3,29 +3,30 @@ layout: list
 type: category
 bigtitle: Study
 sitemap: true
-hide_description: false
+hide_description: true
 # order: 3
 description: >
-  false로 해놓으면 보일려나
-
-# no_groups: true
+  공부한 것을 정리하는 페이지입니다.
 ---
 
 # Study
 
 ## 카테고리
 
-- [ROS]{:.heading.flip-title} --- ROS 학습 내용
-- [Linux]{:.heading.flip-title} --- 리눅스 학습 내용
-- [Arm]{:.heading.flip-title} --- 디지털 시스템 과목 내용 및 설계 프로젝트
+- [CS]{:.heading.flip-title} --- cs
+- [CodingTest]{:.heading.flip-title} --- 코테를 준비하자!
+- [C++]{:.heading.flip-title} --- c++
+- [Front-End]{:.heading.flip-title} --- html, css, js, Vue.js
+- [Back-End]{:.heading.flip-title} --- Spring
+- [Linux]{:.heading.flip-title} --- 리눅스
+- [Arm]{:.heading.flip-title} --- Arm Architecture 및 설계 프로젝트
+- [ROS]{:.heading.flip-title} --- ROS
 
-[ROS]: /ros/
+[CS]: /cs/
+[CodingTest]: /codingtest/
+[C++]: /cpp/
+[Front-End]: /frontend/
+[Back-End]: /backend/
 [Linux]: /linux/
 [Arm]: /arm/
-
-cs, 기타 등등 이론요
-폴더 안에 폴더 해서 이동하는거 알아봐야함
-
-마크다운 ㅁ문법이랑
-깃헙 블로그 만드는 거 적어야 되고
-티스토리꺼 옮겨야 됨.
+[ROS]: /ros/
