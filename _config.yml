@@ -60,6 +60,14 @@ menu:
         url: /cs/
       - title: CodingTest
         url: /codingtest/
+        - title: Algorithm
+          url: /algo/
+        - title: samsung_B
+          url: /sumsung_B/
+        - title: kakao
+          url: /kakao/
+        - title: pccp
+          url: /pccp/
       - title: C++
         url: /cpp/
       - title: Front-End
