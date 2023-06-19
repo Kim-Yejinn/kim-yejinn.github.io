@@ -12,6 +12,13 @@ description: >
 # permalink: /study/
 hide_description: true
 list: true
+related_posts:
+  -
+addons:
+  - related
+  - comments
+list: true
+order: 4
 # (Optional) Write a short (~150 characters) description of this featured tag.
 
 # (Optional) You can disable grouping posts by date.
