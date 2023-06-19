@@ -56,9 +56,9 @@ menu:
   - title: Study
     url: /study/
     submenu:
-      - title: ros
+      - title: Ros
       url: /ros/
-      - title : linux
+      - title : Linux
       url: /linux/
 
 #푸터에 들어가는것
