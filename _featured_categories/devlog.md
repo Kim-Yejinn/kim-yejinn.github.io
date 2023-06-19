@@ -2,6 +2,8 @@
 layout: list
 type: category
 bigtitle: DevLog
+menu: true
+submenu: false
 sitemap: true
 hide_description: true
 # order: 3
@@ -15,6 +17,6 @@ description: >
 
 <!-- - [CS]{:.heading.flip-title} --- cs -->
 
-<!-- [CS]: /cs/ -->
+<!-- [devlog]: // -->
 
 <!-- 추가하기 -->
