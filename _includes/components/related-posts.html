@@ -1,5 +1,5 @@
-{% assign post = page %} {% if page.related_posts %} {% if major >= 4 and minor
->= 1 %} {% assign related_posts = site.posts | where_exp:"post",
+{% assign post = page %} {% if page.related_posts %} {% if major >= 4 and
+minor>= 1 %} {% assign related_posts = site.posts | where_exp:"post",
 "page.related_posts contains post.path or page.related_posts contains post.url"
 %} {% else %} {% assign related_posts_1 = site.posts | where_exp:"post",
 "page.related_posts contains post.path" %} {% assign related_posts_2 =

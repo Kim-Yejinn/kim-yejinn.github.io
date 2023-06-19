@@ -27,8 +27,9 @@
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}
       
       <br>
+      
       <!--년월일-->
-      {% assign post_format = "%Y년 %m월 %d일 글" | default:"%Y %m %d" %}
+      {% assign post_format = "%Y년 %m월 %d일" | default:"%Y %m %d" %}
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:post_format }}</time>
     </div>
     {% assign alt = false %}
