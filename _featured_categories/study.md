@@ -13,6 +13,7 @@ description: >
 
 ## 카테고리
 
+- [라즈베리파이]{:.heading.flip-title}
 - [CS]{:.heading.flip-title} --- cs
 - [CodingTest]{:.heading.flip-title} --- 코테를 준비하자!
 - [Algorithm]{:.heading.flip-title} --- 알고리즘 정리
@@ -23,6 +24,7 @@ description: >
 - [Arm]{:.heading.flip-title} --- Arm Architecture 및 설계 프로젝트
 - [ROS]{:.heading.flip-title} --- ROS
 
+[라즈베리파이]: /Laz/
 [CS]: /cs/
 [CodingTest]: /codingtest/
 [Algorithm]: /algo/

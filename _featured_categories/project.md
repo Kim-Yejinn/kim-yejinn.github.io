@@ -1,20 +1,19 @@
 ---
 layout: list
 type: category
-bigtitle: Study
+bigtitle: Project
 sitemap: true
 hide_description: true
 # order: 3
 description: >
-  공부한 것을 정리하는 페이지입니다.
+  프로젝트를 정리하는 페이지 입니다.
 ---
 
 <!-- # Study -->
 
-## 카테고리
+## 목차
 
-<!-- - [CS]{:.heading.flip-title} --- cs -->
+- [2022 ICT 융합 프로젝트 공모전]{:.heading.flip-title}
 
-<!-- [CS]: /cs/ -->
-
-추가하기
+[2022 ICT 융합 프로젝트 공모전]: /2022-ict/
+[2021 ICT 융합 프로젝트 공모전]: /2021-ㅑㅊㅅ

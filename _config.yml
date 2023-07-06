@@ -20,7 +20,7 @@ baseurl: ""
 lang: ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Yejin's
+title: Yejin's blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -74,6 +74,7 @@ menu:
         url: /arm/
       - title: Ros
         url: /ros/
+
   - title: Review
     url: /review/
   - title: DevLog
